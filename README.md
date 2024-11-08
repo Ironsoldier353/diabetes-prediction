@@ -1,5 +1,5 @@
 # Diabetes Prediction App
-[**Streamlit application**](https://ironsoldier353-diabetes-prediction-app-9uhvp4.streamlit.app/)
+[**Streamlit application**](https://ironsoldier353-diabetes-prediction.streamlit.app/)
 
 
 ## Table of Contents
